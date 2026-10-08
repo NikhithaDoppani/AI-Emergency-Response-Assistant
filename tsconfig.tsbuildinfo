@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/EmptyState.tsx","./src/components/FilterBar.tsx","./src/components/IncidentTable.tsx","./src/components/StatCard.tsx","./src/components/StatusBadge.tsx","./src/components/UrgencyBadge.tsx","./src/hooks/useIncidents.ts","./src/lib/supabase.ts","./src/lib/types.ts"],"version":"5.9.3"}
